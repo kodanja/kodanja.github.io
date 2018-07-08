@@ -1,2 +1,2 @@
 # kodanja.github.io
-The Martial Methodology Blog
+The online portfolio of Josh Peacock
